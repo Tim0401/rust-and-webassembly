@@ -1,4 +1,4 @@
-https://rustwasm.github.io/docs/book/game-of-life/interactivity.html
+https://rustwasm.github.io/docs/book/introduction.html
 
 <div align="center">
 
